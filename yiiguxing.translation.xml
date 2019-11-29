@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following assertion was thrown building Text(&quot;hello1&quot;, inherit: true, color: MaterialColor(primary value: Color(0xfff44336))): No Directionality widget found." />
       <item value="lib/test.dart: Warning: Interpreting this as package URI, 'package:flutter_app01/test.dart'." />
       <item value="// The .fromEnvironment() constructors are special in that we do not want // users to call them using &quot;new&quot;. We prohibit that by giving them bodies // that throw, even though const constructors are not allowed to have bodies. // Disable those static errors. //ignore: const_constructor_with_body //ignore: const_factory" />
       <item value="Try using an US-ASCII letter, a digit, '_' (an underscore), or '$' (a dollar sign)." />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
