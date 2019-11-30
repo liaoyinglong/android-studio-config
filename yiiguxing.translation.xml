@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="List Tile" />
       <item value="unselected Label Color" />
       <item value="Scaffold" />
       <item value="The following assertion was thrown building Text(&quot;hello1&quot;, inherit: true, color: MaterialColor(primary value: Color(0xfff44336))): No Directionality widget found." />
@@ -27,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
