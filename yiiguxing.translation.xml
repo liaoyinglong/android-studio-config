@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unselected Label Color" />
       <item value="Scaffold" />
       <item value="The following assertion was thrown building Text(&quot;hello1&quot;, inherit: true, color: MaterialColor(primary value: Color(0xfff44336))): No Directionality widget found." />
       <item value="lib/test.dart: Warning: Interpreting this as package URI, 'package:flutter_app01/test.dart'." />
@@ -26,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
