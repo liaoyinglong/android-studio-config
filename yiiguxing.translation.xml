@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minimum" />
+      <item value="extent" />
+      <item value="Sliver Demo" />
+      <item value="Edge Insets Geometry" />
       <item value="/// The [initialPage], [keepPage], and [viewportFraction] arguments must not be null." />
       <item value="/// Creates a scrollable list that works page by page from an explicit [List] /// of widgets. /// /// This constructor is appropriate for page views with a small number of /// children because constructing the [List] requires doing work for every /// child that could possibly be displayed in the page view, instead of just /// those children that are actually visible." />
       <item value="/// The total number of tabs. /// /// Typically greater than one. Must match [TabBar.tabs]'s and /// [TabBarView.children]'s length." />
@@ -35,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
