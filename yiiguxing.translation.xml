@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/// The total number of tabs. /// /// Typically greater than one. Must match [TabBar.tabs]'s and /// [TabBarView.children]'s length." />
+      <item value="/// Creates a default tab controller for the given [child] widget. /// /// The [length] argument is typically greater than one. The [length] must /// match [TabBar.tabs]'s and [TabBarView.children]'s length. /// /// The [initialIndex] argument must not be null." />
       <item value="/// The style of line to draw for a [BorderSide] in a [Border]." />
       <item value="// if you add more, think about how they will lerp" />
       <item value="/// Skip the border." />
@@ -31,8 +33,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
