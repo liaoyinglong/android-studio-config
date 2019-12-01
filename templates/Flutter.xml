@@ -1,0 +1,9 @@
+<templateSet group="Flutter">
+  <template name="navof" value="Navigator.of(context)$end$" description="Navigator.of(context)$end$" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+</templateSet>
