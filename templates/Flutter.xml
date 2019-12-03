@@ -15,4 +15,13 @@
       <option name="FLUTTER" value="true" />
     </context>
   </template>
+  <template name="buildfc" value="(BuildContext context $start$){$end1$}$end2$" description="buildfc" toReformat="true" toShortenFQNames="true">
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
 </templateSet>
