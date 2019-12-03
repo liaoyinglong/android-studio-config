@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/// Call all the registered listeners. /// /// Call this method whenever the object changes, to notify any clients the /// object may have. Listeners that are added during this iteration will not /// be visited. Listeners that are removed during this iteration will not be /// visited after they are removed." />
       <item value="is Row Count Approximate" />
       <item value="The following assertion was thrown while handling a gesture: I/flutter ( 3931): Scaffold.of() called with a context that does not contain a Scaffold. I/flutter ( 3931): No Scaffold ancestor could be found starting from the context that was passed to Scaffold.of(). This" />
       <item value="barrier Dismissible" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
