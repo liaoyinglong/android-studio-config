@@ -1,7 +1,6 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="save">
-      <action id="Dart.DartSortMembers" />
       <action id="Dart.DartStyle" />
       <action id="SaveAll" />
     </macro>
