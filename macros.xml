@@ -1,7 +1,6 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="save with format">
-      <action id="EditorCompleteStatement" />
+    <macro name="save">
       <action id="Dart.DartStyle" />
       <action id="SaveAll" />
     </macro>
